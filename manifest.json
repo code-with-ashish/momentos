@@ -1,0 +1,9 @@
+{
+    "name": "momentos",
+    "version": "1.0",
+    "description": "Transform your browser into a beautifully designed tab that helps you feel calm, drop into deep focus, and stay energized at work and in school.",
+    "manifest_version": 3,
+    "chrome_url_overrides": {
+        "newtab": "homepage.html"
+    }
+}
